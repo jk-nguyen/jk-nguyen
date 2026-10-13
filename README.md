@@ -10,7 +10,7 @@ junior Business Analyst, Systems Analyst or IT support roles.
 - **Currently learning:** ITIL 4 Foundation, advanced SQL 
 
 ## Featured projects
-| MavenSki-shop-PersonalProject | ---- |
+| Project | Outcome |
 |---|---|
 | [Project name](link) | One line: business problem → what you did → result |
 | [Project name](link) | One line: business problem → what you did → result |
