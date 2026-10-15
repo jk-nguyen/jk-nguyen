@@ -10,6 +10,13 @@ can act on. I'm looking for junior Business Analyst, Systems Analyst, Data or IT
 
 ---
 
+## 🎓 Education
+
+- **Master of Information Technology (Enterprise Management)** — Adelaide University, 2024 – 2026
+- **Bachelor of International Business** — The University of Adelaide, 2020 – 2024
+
+---
+
 ## 🛠️ Skills
 
 | Area | Skills |
@@ -51,12 +58,11 @@ can act on. I'm looking for junior Business Analyst, Systems Analyst, Data or IT
 - Delivered a launch strategy for the client's first food truck, including competitor analysis across Melbourne's 3,000+ food truck market
 - Coordinated client meetings, tracked deadlines and prepared the final presentation
 
----
 
-## 🎓 Education
-
-- **Master of Information Technology (Enterprise Management)** — Adelaide University, 2024 – 2026
-- **Bachelor of International Business** — The University of Adelaide, 2020 – 2024
+## 🔍 Featured Projects
+| Project | Outcome | Tools |
+|---|---|---|
+| ### [Black Friday Sales Analysis](https://github.com/jk-nguyen/black-friday-sales-analysis) | Identified what drove a ski retailer's Black Friday revenue → analysed 27 orders in Python → Black Friday drove ~63% of weekend sales; top store outsold lowest by ~3 times. | Python · openpyxl · Jupyter · Excel |
 
 ---
 
