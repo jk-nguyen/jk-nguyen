@@ -54,7 +54,7 @@ can act on. I'm looking for junior Business Analyst, Systems Analyst, Data or IT
 - Built Power BI dashboards and wrote evidence-based recommendations
 
 ### Marketing Strategy — Farro Pizzeria (Online Internship)
-*Team lead, 4-person team · Jul 2025 – Nov 2025*
+*Team lead, 4-person team · Nov 2023 – Feb 2024*
 - Delivered a launch strategy for the client's first food truck, including competitor analysis across Melbourne's 3,000+ food truck market
 - Coordinated client meetings, tracked deadlines and prepared the final presentation
 
