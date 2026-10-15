@@ -25,7 +25,7 @@ can act on. I'm looking for junior Business Analyst, Systems Analyst, Data or IT
 | **Data** | Python (cleaning, ETL, exploratory analysis), Excel (pivot tables, validation), correlation & regression, data quality |
 | **Visualisation** | Power BI, Tableau |
 | **Tools & methods** | Agile / Scrum, Jira, Airtable, RStudio, STATA, Microsoft Office |
-| **Currently learning** | SQL, ITIL 4 Foundation |
+| **Currently learning** | Advanced SQL, ITIL 4 Foundation |
 
 ---
 
